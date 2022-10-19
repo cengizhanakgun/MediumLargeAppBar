@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Cengizhan :smiley:
 
-<img src="https://media.giphy.com/media/WUjkDCJ36bAubQdU7C/giphy-downsized-large.gif" align ="center" witdh="400" height="250">
+<img src="https://i.giphy.com/media/WUjkDCJ36bAubQdU7C/giphy-downsized-large.gif" align ="center" witdh="400" height="250">
 
 ## Flutter | | Dart Developer
 
