@@ -36,29 +36,6 @@ Tech I Use
 <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" width="25" height="25">
 
 
-
-
-
-<br/>
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=cengizhanakgun&theme=dark">
-
-</details>
-
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cengizhanakgun&layout=compact">
-
-</details>
-
-
-
-
-
-
-
-
 - [Lab: To view other Flutter projects](https://github.com/cengizhanakgun?tab=repositories)
 
 
